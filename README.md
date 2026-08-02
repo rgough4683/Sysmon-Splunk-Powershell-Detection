@@ -48,7 +48,7 @@ powershell.exe -enc $encoded
 ```
 Screenshot: Simulated command in powershell
 ![alt text](<Log Analysis Screenshots/SOC Analyst Project SS9.jpg>)
-
+---
 ## Detection Query
 This is the query I used and then saved as a Splunk alert:
 ```spl
