@@ -62,13 +62,13 @@ The schedule I ran was over a time range set to "All Time". The alert was set to
 
 Screenshot: Shows the alert configuration
 ![alt text](<SOC Analyst Project SS7.jpg>)
-
+---
 Screenshot: Raw Sysmon event in Event Viewer
 ![alt text](<SOC Analyst Project SS8.jpg>)
-
+---
 Screenshot: Raw Sysmon event as indexed in Splunk
 ![alt text](<SOC Analyst Project SS4.jpg>)
-
+---
 Screenshot: Triggered alert in Activity → Triggered Alerts
 ![alt text](<SOC Analyst Project SS6.jpg>)
 ---
