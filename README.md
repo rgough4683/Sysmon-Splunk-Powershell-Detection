@@ -70,7 +70,7 @@ Screenshot: Raw Sysmon event as indexed in Splunk
 ![alt text](<Log Analysis Screenshots/SOC Analyst Project SS4.jpg>)
 ---
 Screenshot: Triggered alert in Activity → Triggered Alerts
-![alt text](<SOC Analyst Project SS6.jpg>)
+![alt text](<Log Analysis Screenshots/SOC Analyst Project SS6.jpg>)
 ---
 
 ## False Positives & Tuning
