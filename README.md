@@ -61,7 +61,7 @@ Saved as a Splunk alert:
 The schedule I ran was over a time range set to "All Time". The alert was set to "*/5 * * * *", which means every 5 minutes. The alert was triggered once everytime the number of results was greater than zero.
 
 Screenshot: Shows the alert configuration
-![alt text](<SOC Analyst Project SS7.jpg>)
+![alt text](<Log Analysis Screenshots/SOC Analyst Project SS7.jpg>)
 ---
 Screenshot: Raw Sysmon event in Event Viewer
 ![alt text](<SOC Analyst Project SS8.jpg>)
