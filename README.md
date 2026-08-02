@@ -29,7 +29,7 @@ I set up a Windows 11 VM using VM Workstation, and the necessary Sysmon files th
 4. Configured Splunk to ingest the `Microsoft-Windows-Sysmon/Operational` event channel via a manual `inputs.conf` entry (the standard Data Inputs wizard doesn't list non-default Windows Event Log channels).
 5. Verified end-to-end ingestion with a baseline search before building any detection logic.
 
-Screenshot: Shows that Sysmon64 is up and running
+**Screenshot: Shows that Sysmon64 is up and running**
 ![alt text](<Log Analysis Screenshots/SOC Analyst Project SS1.jpg>)
 
 Screenshot: Shows that Sysmon is creating processes in Windows Event Viewer 
