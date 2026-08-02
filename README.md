@@ -33,7 +33,7 @@ Screenshot: Shows that Sysmon64 is up and running
 ![alt text](<Log Analysis Screenshots/SOC Analyst Project SS1.jpg>)
 
 Screenshot: Shows that Sysmon is creating processes in Windows Event Viewer 
-![alt text](<SOC Analyst Project SS2.jpg>)
+![alt text](Log Analysis Screenshots/SOC Analyst Project SS2.jpg>)
 ---
 
 ## Generating the Technique
